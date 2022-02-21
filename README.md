@@ -7,5 +7,5 @@
 
 
 
-![21](\img\21.jpg)
+![21](https://github.com/male-xir/HTTPHeadModifier/blob/master/img/21.jpg)
 
